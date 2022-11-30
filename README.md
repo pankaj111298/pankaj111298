@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pankaj Rajani 
+- 👀 I’m interested in learning new technoogies 
+- 🌱 I’m currently learning Automation Framework creation using different tools 
+- 📫 How to reach me rajanipankaj11@gmail.com
